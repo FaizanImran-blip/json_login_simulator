@@ -8,7 +8,7 @@ A simple Dart-based console application that simulates a login and authenticatio
 - 🔑 Password verification (with hardcoded credential)  
 - 📝 Save and read user details from a local file  
 - 📦 JSON encode and decode user data  
-- 🔁 Simulated data sending using Dart `Timer`  
+- 🔁 Simulated data sending using Dart
 - ❓ "Forgot password" check using stored credentials
 
 ## 📂 File Structure
