@@ -1,7 +1,7 @@
 # 🔐 Dart Login System Console App
 
 A simple Dart-based console application that simulates a login and authentication system using terminal input, file handling, JSON encoding/decoding, and Dart's async features.
-----
+---
 ## 📋 Features
 
 - 👤 User login with name, age, and password input  
