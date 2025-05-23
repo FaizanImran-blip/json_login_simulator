@@ -10,7 +10,7 @@ A simple Dart-based console application that simulates a login and authenticatio
 - 📦 JSON encode and decode user data  
 - 🔁 Simulated data sending using Dart
 - ❓ "Forgot password" check using stored credentials
-
+---
 ## 📂 File Structure
 
 1. User is prompted to enter their name and age.
